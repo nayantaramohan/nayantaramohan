@@ -1,12 +1,11 @@
 ### Hi there, I am Nayantara (Tara) 👋
 
 - :memo: Currently looking for full-time roles in the field of data science
-- 🔭 Part-time Data Scientist Volunteer at Virufy
+- 🔭 Part-time Data Scientist Volunteer at [Virufy](https://virufy.org/en/)
 - :file_folder: Previously worked as a Business Intelligence Engineer Intern at Amazon and Data Analyst at Goldman Sachs
-- 🌱 Founding Team Member at Sensio (med-tech startup developing biosensors to track hypertension)
+- 🌱 Founding Team Member at [Sensio](https://www.sensio-ai.in)
 - :mortar_board: Master's in Data Science at University of Washington (2021-2023)
-- :mortar_board: Bachelor's in Electronics and Communication Engineering at PES University (2015-2019)
-
+- :mortar_board: Bachelor's Major in Electronics and Communication Engineering and Minor in Computer Science at PES University (2015-2019)
 - :white_check_mark: I’m currently learning Hu-BERT and NLP algorithms
 - :100: Experienced in Exploratory Data Analysis, Conducting Statistical Analysis, Implementing Machine Learning Algorithms to Solve Business Problems and Data Visualization
 - 💬 Ask me about data analytics, business intelligence and machine learning topics.
