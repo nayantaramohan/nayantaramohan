@@ -1,7 +1,7 @@
-### Hi there, I am Nayantara (Tara) 👋
+### Hi there, I am Nayantara 👋
 
-- 🔭 Data Scientist at [NeuroRPM](https://www.neurorpm.com)
-- :file_folder: Previously worked as a Business Intelligence Engineer Intern at Amazon and Data Analyst at Goldman Sachs
+- 🔭 Business Intelligence Engineer II at [Amazon](https://www.amazon.com)
+- :file_folder: Previously worked as a Data Scientist at [NeuroRPM](https://www.neurorpm.com) and Data Analyst at Goldman Sachs
 - 🌱 Founding Team Member at [Sensio](https://www.sensio-ai.in)
 - :mortar_board: Master's in Data Science at University of Washington (2021-2023)
 - :mortar_board: Bachelor's Major in Electronics and Communication Engineering and Minor in Computer Science at PES University (2015-2019)
